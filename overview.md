@@ -1,1 +1,1 @@
-In this resource students will make a something do a something so that your something can do something and use something to control the something.
+In this scheme, students will take part in the construction of a model of the ISS to learn about the modules that make up the ISS. They will then perform various experiments using a Raspberry Pi and a Sense HAT, to explore the environment aboard the ISS, and use a spreadsheet to graph the data.

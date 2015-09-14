@@ -1,7 +1,8 @@
-By creating a something with your Raspberry Pi students will learn:
+By following this teach resource, stuents will learn:
 
-- How to set up a Raspberry Pi camera
-- How to use GPIO pins
-- How to create a circuit on a breadboard
-- Controlling GPIO pins with Python code
-- Controlling the camera module with Python code
+- How to graph CSV data
+- How insulation can affect heat loss/gain
+- How pressure changes in a partial vacuum
+- How humidity is affected by respiration, hygroscopic materials and temperature
+- How freefall causes weightlessness
+- How centripetal force can simulate gravity.

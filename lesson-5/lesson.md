@@ -3,7 +3,7 @@
 ## Learning objectives
 
 - To understand that objects in orbit are always falling towards the Earth.
-- To understand that gravity can be simuated by circular motion
+- To understand that gravity can be simulated by circular motion
 
 ## Learning outcomes
 
@@ -18,11 +18,11 @@
 
 ### Some students are able to
 
-- Relate circular motion to force (centripetal), and understand how this could be used to provide artificail gravity.
+- Relate circular motion to force (centripetal), and understand how this could be used to provide artificial gravity.
 
 ## Lesson Summary
 
-In this lesson, students will conduct some research on living with microgravity, and then look at ways that gravity could be simulated on future space stations. They'll look at how circular motion can produce a constant force.
+In this lesson, students will conduct some research on living with micro-gravity, and then look at ways that gravity could be simulated on future space stations. They'll look at how circular motion can produce a constant force.
 
 ## Starter
 
@@ -85,7 +85,7 @@ showing a steady acceleration due to gravity of 1, that suddenly drops to 0 whil
 
 11. Ask your students what it would feel like if they were in free fall. You can show them [this video](https://www.youtube.com/watch?v=4Y_L8pnDRvY) of the *vomit comet*.
 
-12. Explain to students that the reason astronauts feel weightless when in orbit is because in reality, the ISS is falling towards Earth. Becuase the Earth is curved, the ISS never actually reaches the surface, so it is always in *freefall*.
+12. Explain to students that the reason astronauts feel weightless when in orbit is because in reality, the ISS is falling towards Earth. Because the Earth is curved, the ISS never actually reaches the surface, so it is always in *free-fall*.
 
 ![Newton's Cannonball 1](https://en.wikipedia.org/wiki/Newton%27s_cannonball#/media/File:Newtonsmountainv%3D6000.gif)
 
@@ -95,7 +95,7 @@ showing a steady acceleration due to gravity of 1, that suddenly drops to 0 whil
 
 1. Have students read [this article about Gennady Padalka](http://www.telegraph.co.uk/news/science/space/11860476/Astronaut-takes-the-record-for-longest-time-ever-in-space.html), who has spent a record 879 days in space.
 
-2. Having read the article, ask your students if there are any longterm risks of living in microgravity. Ask them how these risks might be mitigated.
+2. Having read the article, ask your students if there are any long term risks of living in micro-gravity. Ask them how these risks might be mitigated.
 
 3. Discuss with your students how we could implement artificial gravity in yet-to-be-built space stations. They might come up with many ideas, such as magnetic boots or even using super-heavy elements at the centre of a space station.
 
@@ -120,7 +120,7 @@ showing a steady acceleration due to gravity of 1, that suddenly drops to 0 whil
 
 ## Plenary
 
-- Have students discuss what they think would happen to the force of gravity on a spinning Spacestation as you moved close to the axis of spin.
+- Have students discuss what they think would happen to the force of gravity on a spinning Space station as you moved close to the axis of spin.
 
 
 

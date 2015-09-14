@@ -6,7 +6,7 @@
 
 2. In the first experiment, the Sense HAT and Raspberry Pi will remain motionless and the measurements from the accelerometer recorded.
 
-3. Once the experiment has been run, graph the CSV sheey as you have done in previous lessons.
+3. Once the experiment has been run, graph the CSV data as you have done in previous lessons.
 
 4. Answer the following questions
    1. Are there any forces acting on the motionless Sense HAT?

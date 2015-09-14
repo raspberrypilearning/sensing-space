@@ -31,23 +31,28 @@ In this lesson, students will learn about air pressure, and the need to keep the
 ## Starter
 
 1. Ask students what things an astronaut needs to survive in space. e.g.
-    2. Food
-    3. Water
-    4. Air
-2. Ask the students how they think these essentials get to the ISS and how they are kept there.
+    1. Food
+    1. Water
+    1. Air
+
+1. Ask the students how they think these essentials get to the ISS and how they are kept there.
 
 ## Main development
 
 ### Explaining air pressure
 
 1. Blow up a balloon, and ask students to explain why the balloon stays inflated. 
+
 1. Allow the balloon to deflate and then use a pin to make a small hole in the skin of the balloon and then try to inflate it again.
+
 1. Ask the students why the balloon deflates.
 
 ### Simulating a vacuum
 
 1. Explain that there is no air in space, and that this is known as a vacuum.
+
 1. Ask your students how we might go about producing a vacuum (or an area of very low pressure) on Earth, to simulate the vacuum of space.
+
 1. This time you're going to be measuring air-pressure using the Sense-Logger.py file. Edit the opening lines as shown below.
 
 		```python
@@ -77,30 +82,35 @@ In this lesson, students will learn about air pressure, and the need to keep the
 
 ![Bag Pi](images/bap-pi.jpg)
 
-5. Place about half a centimeter of boiling water into the base of the container.
+1. Place about half a centimeter of boiling water into the base of the container.
 
 ![Water Pi](images/water-pi.jpg)
 
-6. Ask the students what is filling space above the water. Try and get them to realise that it is mostly steam.
-7. Push the lid in place, and ask if air can get back into the container.
+1. Ask the students what is filling the space above the water. Try and get them to realise that it is mostly water vapour and steam.
+
+1. Push the lid in place, and ask if air can get back into the container.
 
 ![Box Pi](images/box-pi.jpg)
 
-8. Ask what will happen to the steam in the container, as it cools.
-6. To speed up the condensation of water vapour, you can sit the plastic container on freezer blocks.
+1. Ask what will happen to the steam in the container, as it cools.
+1. To speed up the condensation of water vapour, you can sit the plastic container on freezer blocks.
 
 ![Cold Pi](images/cold-pi.jpg)
 
-7. After 5 minutes, remove the Raspberry Pi from the container and then allow the students to analyse the csv data as they did in the previous lesson.
-8. They should see a gradual decrease in pressure.
+1. After 5 minutes, remove the Raspberry Pi from the container and then allow the students to analyse the CSV data as they did in the previous lesson.
+
+1. They should see a gradual decrease in pressure.
 
 ### Keeping the ISS pressurised.
-1. Explain that now we know how to create a low pressure environment, we can simulate the Cupola.
+
+1. Explain that now we know how to create a low pressure environment, we can
+simulate the Cupola.
+
 2. Start logging and seal your Raspberry Pi and Sense HAT inside a smaller plastic container.
 
 ![Sealed Pi](images/sealed-pi.jpg)
 
-3. Now repeat the previous experiment, to allow the students to see how the sealed container reduces the air pressure loss. If your container has an absolutely air-tight seal, you should see no pressure loss.
+3. Now repeat the previous experiment, to allow the students to see how the sealed container reduces the air pressure loss. If your container has an absolutely air-tight seal, you should see no pressure loss, but this can be difficult to reproduce.
 
 4. The worksheet has students compare the exposed and pressurised pressure graphs. You would normally expect to see a loss in pressure, even from the sealed container unless the seal is perfect. This can lead to a discussion of structual leakage aboard the ISS, which is a real problem.
 
