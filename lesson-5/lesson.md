@@ -87,9 +87,9 @@ showing a steady acceleration due to gravity of 1, that suddenly drops to 0 whil
 
 12. Explain to students that the reason astronauts feel weightless when in orbit is because in reality, the ISS is falling towards Earth. Because the Earth is curved, the ISS never actually reaches the surface, so it is always in *free-fall*.
 
-![Newton's Cannonball 1](https://en.wikipedia.org/wiki/Newton%27s_cannonball#/media/File:Newtonsmountainv%3D6000.gif)
+![Newton's Cannonball 1](https://upload.wikimedia.org/wikipedia/commons/b/bb/Newtonsmountainv%3D6000.gif)
 
-![Newton's Cannonball 2](https://en.wikipedia.org/wiki/Newton%27s_cannonball#/media/File:Newtonsmountainv%3D7300.gif)
+![Newton's Cannonball 2](https://upload.wikimedia.org/wikipedia/commons/1/12/Newtonsmountainv%3D7300.gif)
 
 ### Simulating Gravity
 
@@ -114,7 +114,7 @@ showing a steady acceleration due to gravity of 1, that suddenly drops to 0 whil
 
 8. Quit the logging program and give students access to the CSV file for graphing. They should see something like:
 
-![spin](images/spin.png)
+![spin](images/spinning.png)
 
 9. The graph clearly shows an increase in the force experienced by the Sense HAT while being spun. Try the experiment again using different length straps to see how this changes the force experience.
 
