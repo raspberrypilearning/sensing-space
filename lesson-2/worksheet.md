@@ -1,13 +1,14 @@
-# Lesson 2 - Preventing Sweaty Astronauts
+# Lesson 2 - Avoiding Sweaty Astronauts
 
 In this lesson you're going to investigate ways to keep Astronauts protected from extremely high and extremely low temperatures in space.
 
-## Getting the CSV file.
+## Experiment 1
 
+1. The Sense HAT has a temperature sensor, built into it.
 1. Your teacher will demonstrate using the Sense HAT to record temperatures.
 2. Follow your teacher's instructions to get access to the CSV file, once some data has been logged.
 
-## Second step
+### Graphing the CSV
 
 You can use online software to produce graphs of your data, or your teacher might prefer you to use a program like Excel. The example below is using Google Sheets, but the process is similar in any program.
 
@@ -45,19 +46,23 @@ You can use online software to produce graphs of your data, or your teacher migh
 
 6. Write a sentence describing how the temperature changed over the period that the experiment was run.
 
-## Third step
+## Experiment 2
 
-1. Now that you've seen how temperature can be captured by the Sense HAT, you can investigate what happens when all the LEDs on the Sense HAT are illuminated. Write down your prediction for how the temperature will change with all the LEDs on.
+1. Now that you've seen how temperature can be captured by the Sense HAT, you can investigate what happens when all the LEDs on the Sense HAT are illuminated.
+
+1. Write down your prediction for how the temperature will change when all the LEDs on.
 
 1. Once your teacher has shared the CSV file, produce a graph as you did before and state what is happening to the temperature in the Cupola.
 
-## Fourth step
+## Experiment 3
 
-* Following each of the experiments that your class conducts, produce graphs of the data and try to explain what you think is happening.
-* Once your class has complete the experiments, try and answer the following questions.
+1. Next it is time to investigate how using different materials to cover the Cupola, might change the rate of heat loss.
+   1. Which material was the best at keeping heat inside the Cupola?
+   2. Why do you think this material was the best?
 
-1. Which material was the best at keeping heat inside the Cupola?
-2. Why do you think this material was the best?
-2. Which material was the best at keeping heat outside the Cupola?
-3. Why do you think this material was the best?
+## Experiment 4
+
+1. As it can also get extremely hot on the sunny side of the ISS, it is important to protect the astronauts from high temperatures.
+   1. Which material was the best at keeping heat outside the Cupola?
+   2. Why do you think this material was the best?
 

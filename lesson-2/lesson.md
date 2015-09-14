@@ -56,62 +56,62 @@ To begin with it is a good idea to familiarise your students with using the CSV 
 1. To access the resources for this and future lessons, open a LXTerminal and type:
 
 		```bash
-		git clone etc etc && ~/path/to/folder
+		git clone https://github.com/raspberrypilearning/Sensing-Space.git && cd ~/Sensing-Space/lesson-2/code
 		```
 		
-3. You'll need to install a dependency for the program.
+1. You'll need to install a dependency for the Sense HAT logging program you are going to use.
 
 		```bash
 		sudo pip-3.2 install evdev
 		```
 		
-4. The Sense-Logger.py program records lots of data, but to begin with you only want to record temperature. You'll need to edit the file. Open up IDLE for Python 3
+1. The Sense-Logger.py program records lots of data, but to begin with you only want to record temperature. You'll need to edit the file. Open up IDLE for Python 3
 
 ![IDLE](images/IDLE.png)
 
-5. Click `File` and `Open` and then choose the Sense-Logger.py file that you've just downloaded.
+1. Click `File` and `Open` and then choose the `Sensing-Space/lesson-2/code/Sense-Logger.py` file that you've just downloaded.
 
-6. Find the following lines near the top of the file.
+1. Find the following lines near the top of the file.
 
-```python
-## Logging Settings
-TEMPERATURE=True
-HUMIDITY=True
-PRESSURE=True
-ORIENTATION=True
-ACCELERATION=True
-MAG=True
-GYRO=True
-DELAY = 0
-BASENAME = ""
-```
+		```python
+		## Logging Settings
+		TEMPERATURE=True
+		HUMIDITY=True
+		PRESSURE=True
+		ORIENTATION=True
+		ACCELERATION=True
+		MAG=True
+		GYRO=True
+		DELAY = 0
+		BASENAME = ""
+		```
 
-7. We only want to only record temperature every 5 seconds, so edit the lines so they look like this.
+1. We only want to only record temperature every 5 seconds, so edit the lines so they look like this.
 
-```python
-## Logging Settings
-TEMPERATURE=True
-HUMIDITY=False
-PRESSURE=False
-ORIENTATION=False
-ACCELERATION=False
-MAG=False
-GYRO=False
-DELAY = 5
-BASENAME = "temp"
-```
+		```python
+		## Logging Settings
+		TEMPERATURE=True
+		HUMIDITY=False
+		PRESSURE=False
+		ORIENTATION=False
+		ACCELERATION=False
+		MAG=False
+		GYRO=False
+		DELAY = 5
+		BASENAME = "temp"
+		```
 
-7. Now run the Sense-Logger.py file by saving and pressing `F5` on our keyboard. A red exclamation mark should be displayed on the LED matrix. Pull the joystick downwards to start logging, and then upwards when you have finished.
+1. Now run the Sense-Logger.py file by saving and pressing `F5` on our keyboard. A red exclamation mark should be displayed on the LED matrix. Pull the joystick downwards to start logging, and then upwards when you have finished.
 
-8. You now need to share the file with your students. It is best to rename the file first. Don't forget you can use the `Tab` key to auto-complete file names once you've started typing them.
+1. You now need to share the file with your students. It is best to rename the file first. Don't forget you can use the `Tab` key to auto-complete file names once you've started typing them.
 
 ```bash
 mv temp-long-sting-of-numbers.csv temp.csv
 ```
 
-9. Use [this guide](link to guides) to share the CSV file with your students.
+1. Use [this guide](link to guides) to share the CSV file with your students.
 
-10. Your students can follow the instructions in their worksheet to produce a graph of the CSV file using Google Sheets. You can amend the instructions if you wish to use a different Spreadsheet application.
+1. Your students can follow the instructions in their worksheet to produce a graph of the CSV file using Google Sheets. You can amend the instructions if you wish to use a different Spreadsheet application.
 
 ### Keeping the astronauts warm
 

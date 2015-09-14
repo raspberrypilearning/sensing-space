@@ -32,46 +32,51 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 1. Ask students about the waste human bodies produce. Hopefully they'll be familiar with the obvious contenders.
     1. Urine
-    2. Fecaes
-    3. Carbon dioxide.
+    1. Fecaes
+    1. Carbon dioxide.
 
-2. Explain that water is also a waste product from *respiration* where we turn sugar into energy in out cells.
-        ```
+1. Explain that water is also a waste product from *respiration* where we turn sugar into energy in out cells.
+
+		```
         Sugar + Oxygen ---> Carbon dioxide + Water
         ```
 
-3. Some of the water produced exits our bodies as water vapour when we breath.
+1. Some of the water produced exits our bodies as water vapour when we breath.
 
-4. Have students come up with ideas for why this might be a problem aboard the ISS, if the excess water vapour is not removed.
+1. Have students come up with ideas for why this might be a problem aboard the ISS, if the excess water vapour is not removed.
 
-5. Explain that the concentration of water vapour in the air is called the humidity.
+1. Explain that the concentration of water vapour in the air is called the humidity.
 
 ## Main development
 
 ### Simple Humidity Logging
 
 1. To begin you're going to need to connect a pair of ziplock bags, as shown in the image below.
+
 ![bags](images/bags.jpg)
 
 1. The first bag will be used to collect the breath of our 'astronaut' and the second bag will house the Raspberry Pi and Sense HAT.
 
 1. You'll need to edit the Sense-Logger.py file to record humidity.
 
-```python
-## Logging Settings
-TEMPERATURE=False
-HUMIDITY=True
-PRESSURE=False
-ORIENTATION=False
-ACCELERATION=False
-MAG=False
-GYRO=False
-DELAY = 5
-BASENAME = "humidity"
-```
+		```python
+		## Logging Settings
+		TEMPERATURE=False
+		HUMIDITY=True
+		PRESSURE=False
+		ORIENTATION=False
+		ACCELERATION=False
+		MAG=False
+		GYRO=False
+		DELAY = 5
+		BASENAME = "humidity"
+		```
+
 1. Run the Sense-Logger.py file again and start logging.
 
 1. Log the humidity readings received when the Raspberry Pi and Sense Hat are in the bag, with no interference.
+
+### Humidity while breathing
 
 1. Log the humidity readings again, while breathing gently into the first bag. Continue to breath into the bag for about a minute and then quit the logging program.
 
@@ -93,5 +98,5 @@ BASENAME = "humidity"
 
 Ask the students about the pros and cons of using hygroscopic substances to remove water vapour compared to cooling the air and emoving the condensation. Students might like to consider the energy needed to remove the water vapour by cooling, vs the energy required to transport hygroscopic substances to and from the station.
 
-## Extension
+
 

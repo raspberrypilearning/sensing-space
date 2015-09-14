@@ -65,28 +65,23 @@ In this lesson, students will build a model Internation Space Station, containin
 1. If you build the Cupola and the Tranquility module first, you will have some idea of the scale of the other modules, your students will need to conform to.
 2. You can build the housing for the Sense Hat anyway you choose, but you will need to make sure that it is sealed reasonably well, and that there is transparent base. The following construction guide works well enough
 
-### Equipment needed.
-1. Sense HAT
-2. Long (at least 1m) 40pin ribbon cable
-3. 40 pin female to male adaptor
-4. Round bottomed 2L empty water bottle.
-5. Silicone sealant
-6. 2x Large paper cups.
-7. Duct tape
+### Recommended equipment.
+
+You can make the Tranquility module and Cupola in anyway you like, so long as the Cupola is large enough to house a Raspberry Pi and Sense HAT and battery.
+
+1. Round bottomed 2L empty water bottle.
+1. Large Coffee Can
+1. 
 
 ### Instructions
 1. Cut the water bottle in half, using a sharp knife. Ensure the inside is dry.
-![Cut bottle](http://vignette2.wikia.nocookie.net/saladfingers/images/b/b3/Salad-Fingers.jpg/revision/latest?cb=20141005173700)
-2. In the side of the bottle, cut as thin a strip as you can manage, to allow the ribbon cable to be passed through it.
-![Cut slit](http://vignette2.wikia.nocookie.net/saladfingers/images/b/b3/Salad-Fingers.jpg/revision/latest?cb=20141005173700)
-3. Pass the ribbon through the slit, and then seal it using the Silicone Sealant.
-![Seal](http://vignette2.wikia.nocookie.net/saladfingers/images/b/b3/Salad-Fingers.jpg/revision/latest?cb=20141005173700)
-4. Remove the bottom of one of the paper cups and stand it in the bottle so it forms a tight seal. Use tape to improve the seal.
-![Cup](http://vignette2.wikia.nocookie.net/saladfingers/images/b/b3/Salad-Fingers.jpg/revision/latest?cb=20141005173700)
-5. Place the second cup, upturned, onto the first and seal with more duct tape.
-![MoreCup](http://vignette2.wikia.nocookie.net/saladfingers/images/b/b3/Salad-Fingers.jpg/revision/latest?cb=20141005173700)
-6. Decorate the Module.
-![Decorate](http://vignette2.wikia.nocookie.net/saladfingers/images/b/b3/Salad-Fingers.jpg/revision/latest?cb=20141005173700)
+![Cut bottle](images/cut_bottle.jpg)
+1. Cut a hole in the top of the lid of the coffee can, large enough to accept the plastic bottle. (Note - this is not the current configuration of the Cupola)
+![Cut Can](images/cut_can.jpg)
+1. Push the plastic bottle through the hole in the lid.
+![Push through](images/push_through.jpg)
+1. Decorate the Module.
+![Decorate](images/decorate.jpg)
 
 ## Plenary
 
