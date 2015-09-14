@@ -55,9 +55,9 @@ To begin with it is a good idea to familiarise your students with using the CSV 
 
 1. To access the resources for this and future lessons, open a LXTerminal and type:
 
-		```bash
-		git clone https://github.com/raspberrypilearning/sensing-space.git && cd ~/sensing-space/lesson-2/code
-		```
+```bash
+git clone https://github.com/raspberrypilearning/sensing-space.git && cd ~/sensing-space/lesson-2/code
+```
 		
 1. You'll need to install a dependency for the Sense HAT logging program you are going to use.
 
