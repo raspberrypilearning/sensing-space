@@ -1,4 +1,4 @@
-# A Model ISS Lesson Plan 2 - Avoiding Sweaty Astronauts
+# Sensing Space 2 - Avoiding Sweaty Astronauts
 
 In this lesson, students will learn about the range of temperatures that the ISS needs to protect astronauts from, and the methods used to regulate the temperature aboard the ISS.
 

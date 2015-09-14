@@ -1,4 +1,4 @@
-# A Model ISS Lesson Plan 4 - Water, water everywhere.
+# Sensing Space 4 - Water, Water Everywhere.
 
 In this lesson students will learn that water is one of the waste gasses produced by humans when they breath and sweat, and some of the methods that could be considered to remove excess water vapour from the air.
 

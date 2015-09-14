@@ -1,4 +1,4 @@
-# A Model ISS Lesson Plan 3 - Under Pressure
+# Sensing Space 3 - Under Pressure
 
 In this lesson, students will learn about air pressure, and the need to keep the ISS pressurised so that the astronauts are able to breath.
 

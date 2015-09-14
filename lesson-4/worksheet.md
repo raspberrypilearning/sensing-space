@@ -1,4 +1,4 @@
-# Lesson 4 - Water, water everywhere
+# Sensing Space 4 - Water, Water Everywhere.
 
 Humans produce a lot of waste material.
 Write down 4 waste products produced by humans, just by being alive.

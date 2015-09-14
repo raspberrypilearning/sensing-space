@@ -1,4 +1,4 @@
-# Lesson 3 - Under Pressure
+# Sensing Space 3 - Under Pressure
 
 In this lesson you will be learning the importance of maintaining a positive air pressure aboard the ISS.
 

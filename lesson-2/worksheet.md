@@ -1,4 +1,4 @@
-# Lesson 2 - Avoiding Sweaty Astronauts
+# Sensing Space 2 - Avoiding Sweaty Astronauts
 
 In this lesson you're going to investigate ways to keep Astronauts protected from extremely high and extremely low temperatures in space.
 
