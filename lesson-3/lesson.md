@@ -55,28 +55,28 @@ In this lesson, students will learn about air pressure, and the need to keep the
 
 1. This time you're going to be measuring air-pressure using the Sense-Logger.py file. Edit the opening lines as shown below.
 
-		```python
-		## Logging Settings
-		TEMPERATURE=False
-		HUMIDITY=False
-		PRESSURE=True
-		ORIENTATION=False
-		ACCELERATION=False
-		MAG=False
-		GYRO=False
-		DELAY = 5
-		BASENAME = "press"
-		```
+```python
+## Logging Settings
+TEMPERATURE=False
+HUMIDITY=False
+PRESSURE=True
+ORIENTATION=False
+ACCELERATION=False
+MAG=False
+GYRO=False
+DELAY = 5
+BASENAME = "press"
+```
 1. You can also change the lines that made the LEDs come on in the last lesson
 
-		```python
-		def show_state(logging):
-			if logging:
-				#sense.clear(255,255,255)
-				sense.show_letter("!",text_colour=[0,255,0])
-			else:
-				sense.show_letter("!",text_colour=[255,0,0])
-		```
+```python
+def show_state(logging):
+	if logging:
+		#sense.clear(255,255,255)
+		sense.show_letter("!",text_colour=[0,255,0])
+	else:
+		sense.show_letter("!",text_colour=[255,0,0])
+```
 
 1. Start logging and seal the Raspberry Pi, Sense Hat and battery in a zip-lock bag, then place it on a platform inside a plastic container, as shown below.
 

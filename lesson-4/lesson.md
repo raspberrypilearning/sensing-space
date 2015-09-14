@@ -37,9 +37,9 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 1. Explain that water is also a waste product from *respiration* where we turn sugar into energy in out cells.
 
-		```
-        Sugar + Oxygen ---> Carbon dioxide + Water
-        ```
+```
+Sugar + Oxygen ---> Carbon dioxide + Water
+```
 
 1. Some of the water produced exits our bodies as water vapour when we breath.
 
@@ -59,18 +59,18 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 1. You'll need to edit the Sense-Logger.py file to record humidity.
 
-		```python
-		## Logging Settings
-		TEMPERATURE=False
-		HUMIDITY=True
-		PRESSURE=False
-		ORIENTATION=False
-		ACCELERATION=False
-		MAG=False
-		GYRO=False
-		DELAY = 5
-		BASENAME = "humidity"
-		```
+```python
+## Logging Settings
+TEMPERATURE=False
+HUMIDITY=True
+PRESSURE=False
+ORIENTATION=False
+ACCELERATION=False
+MAG=False
+GYRO=False
+DELAY = 5
+BASENAME = "humidity"
+```
 
 1. Run the Sense-Logger.py file again and start logging.
 

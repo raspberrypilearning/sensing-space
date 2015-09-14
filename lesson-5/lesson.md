@@ -38,35 +38,35 @@ In this lesson, students will conduct some research on living with micro-gravity
 1. Explain that the Sense HAT contains an accelerometer which can measure forces acting on the Sense HAT.
 2. Open Sense-Logger.py and edit the opening lines, so that only acceleration is being measured every 5 seconds.
 
-		```python
-		## Logging Settings
-		TEMPERATURE=False
-		HUMIDITY=False
-		PRESSURE=False
-		ORIENTATION=False
-		ACCELERATION=True
-		MAG=False
-		GYRO=False
-		DELAY = 5
-		BASENAME = ""
-		```
+```python
+## Logging Settings
+TEMPERATURE=False
+HUMIDITY=False
+PRESSURE=False
+ORIENTATION=False
+ACCELERATION=True
+MAG=False
+GYRO=False
+DELAY = 5
+BASENAME = ""
+```
 3. Start the logging process, let it run for a few seconds and then stop logging.
 
 4. Share the produced CSV file and let students reason as to what the data means. They may need guidance to realise that the measurement of approximately `1` in the accel_z column is a measurement of the force on the Sense HAT caused by the gravitational pull of the Earth.
 
 5. Open up Sense-Logger.py again and change the `DELAY` variable, so that the Sense Hat will log data as quickly as it can.
-		```python
-		## Logging Settings
-		TEMPERATURE=False
-		HUMIDITY=False
-		PRESSURE=False
-		ORIENTATION=False
-		ACCELERATION=True
-		MAG=False
-		GYRO=False
-		DELAY = 5
-		BASENAME = ""
-		```
+```python
+## Logging Settings
+TEMPERATURE=False
+HUMIDITY=False
+PRESSURE=False
+ORIENTATION=False
+ACCELERATION=True
+MAG=False
+GYRO=False
+DELAY = 5
+BASENAME = ""
+```
 6. You may want to secure your battery to the Raspberry Pi for the next part, or even place them in a protective container of some description.
 
 ![tied-up](images/tied-up.jpg)

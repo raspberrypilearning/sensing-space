@@ -61,9 +61,9 @@ git clone https://github.com/raspberrypilearning/sensing-space.git && cd ~/sensi
 		
 1. You'll need to install a dependency for the Sense HAT logging program you are going to use.
 
-		```bash
-		sudo pip-3.2 install evdev
-		```
+```bash
+sudo pip-3.2 install evdev
+```
 		
 1. The Sense-Logger.py program records lots of data, but to begin with you only want to record temperature. You'll need to edit the file. Open up IDLE for Python 3
 
@@ -73,33 +73,33 @@ git clone https://github.com/raspberrypilearning/sensing-space.git && cd ~/sensi
 
 1. Find the following lines near the top of the file.
 
-		```python
-		## Logging Settings
-		TEMPERATURE=True
-		HUMIDITY=True
-		PRESSURE=True
-		ORIENTATION=True
-		ACCELERATION=True
-		MAG=True
-		GYRO=True
-		DELAY = 0
-		BASENAME = ""
-		```
+```python
+## Logging Settings
+TEMPERATURE=True
+HUMIDITY=True
+PRESSURE=True
+ORIENTATION=True
+ACCELERATION=True
+MAG=True
+GYRO=True
+DELAY = 0
+BASENAME = ""
+```
 
 1. We only want to only record temperature every 5 seconds, so edit the lines so they look like this.
 
-		```python
-		## Logging Settings
-		TEMPERATURE=True
-		HUMIDITY=False
-		PRESSURE=False
-		ORIENTATION=False
-		ACCELERATION=False
-		MAG=False
-		GYRO=False
-		DELAY = 5
-		BASENAME = "temp"
-		```
+```python
+## Logging Settings
+TEMPERATURE=True
+HUMIDITY=False
+PRESSURE=False
+ORIENTATION=False
+ACCELERATION=False
+MAG=False
+GYRO=False
+DELAY = 5
+BASENAME = "temp"
+```
 
 1. Now run the Sense-Logger.py file by saving and pressing `F5` on our keyboard. A red exclamation mark should be displayed on the LED matrix. Pull the joystick downwards to start logging, and then upwards when you have finished.
 
@@ -125,24 +125,24 @@ mv temp-long-sting-of-numbers.csv temp.csv
 
 1. You'll need to edit the Sense-Logger.py file to turn on all the LEDs. Change the lines below.
 
-		```python
-		def show_state(logging):
-			if logging:
-				sense.show_letter("!",text_colour=[0,255,0])
-			else:
-				sense.show_letter("!",text_colour=[255,0,0])
-		```
+```python
+def show_state(logging):
+	if logging:
+		sense.show_letter("!",text_colour=[0,255,0])
+	else:
+		sense.show_letter("!",text_colour=[255,0,0])
+```
 
 to
 
-		```python
-		def show_state(logging):
-			if logging:
-				sense.clear(255,255,255)
-				#sense.show_letter("!",text_colour=[0,255,0])
-			else:
-			sense.show_letter("!",text_colour=[255,0,0])
-		```
+```python
+def show_state(logging):
+	if logging:
+		sense.clear(255,255,255)
+		#sense.show_letter("!",text_colour=[0,255,0])
+	else:
+	sense.show_letter("!",text_colour=[255,0,0])
+```
 
 1. We'll also need to simulate the cold environment of space, so that we get some heat loss from the Cupola. For this we can use an ice-bath. Set up your Raspberry Pi and Sense Hat as shown in the image below, using ice or freezer-blocks.
 
