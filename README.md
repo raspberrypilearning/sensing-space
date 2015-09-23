@@ -1,4 +1,4 @@
-# Example Resource
+# Sensing Space
 
 ![ISS](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/International_Space_Station_after_undocking_of_STS-132.jpg/1024px-International_Space_Station_after_undocking_of_STS-132.jpg)
 
