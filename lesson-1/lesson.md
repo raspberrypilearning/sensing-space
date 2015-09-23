@@ -25,14 +25,14 @@ In this lesson, students will build a model Internation Space Station, containin
 
 ## Lesson Summary
 
-- Students will research, design and construct a module of the ISS in groups, that can be joined together to form a complete space station.
+- Groups of students will research, design, and construct modules of the ISS. These can then be joined together to form a complete space station.
 
 ## Starter
 
-- Show students the interactive 3D model of the ISS at [heavens above](http://www.heavens-above.com/ISS_3D.aspx). It looks really nice when projected in full-screen mode.
+- Show students the interactive 3D model of the ISS at [Heavens-Above](http://www.heavens-above.com/ISS_3D.aspx). It looks good when projected in full-screen mode.
 - Ask the students what the 3D model represents.
 - Rotate and zoom in and out of the model, and ask them if they can guess what the different sections of the ISS do.
-- Explain to the students that there are two Raspberry Pis on the ISS, as part of the Astro Pi project, and that they're going to be conducting some experiments using a model ISS to learn about what it's like living in Space.
+- Explain to the students that there are two Raspberry Pis on the ISS, as part of the Astro Pi project, and that they're going to be conducting some experiments using a model ISS to learn about what living in Space is like.
 
 ## Main development
 
@@ -62,16 +62,15 @@ In this lesson, students will build a model Internation Space Station, containin
 ## Building the Tranquility Module
 1. There will be 2 Raspberry Pis and Sense HATs aboard the ISS. One will be situated in the Cupola which is attached to the Tranquility module.
 ![Cupola](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/STS130_cupola_view1.jpg/1024px-STS130_cupola_view1.jpg)
-1. If you build the Cupola and the Tranquility module first, you will have some idea of the scale of the other modules, your students will need to conform to.
-2. You can build the housing for the Sense Hat anyway you choose, but you will need to make sure that it is sealed reasonably well, and that there is transparent base. The following construction guide works well enough
+1. If you build the Cupola and the Tranquility module first, you will have some idea of the scale your students will need to conform to when building the other modules.
+2. You can build the housing for the Sense HAT any way you choose, but you will need to make sure that it is sealed reasonably well, and that there is a transparent base. The following construction guide works sufficiently well. 
 
 ### Recommended equipment.
 
-You can make the Tranquility module and Cupola in anyway you like, so long as the Cupola is large enough to house a Raspberry Pi and Sense HAT and battery.
+You can make the Tranquility module and Cupola in any way you like, provided that the Cupola is large enough to house a Raspberry Pi, Sense HAT and battery.
 
-1. Round bottomed 2L empty water bottle.
-1. Large Coffee Can
-1. 
+1. Round-bottomed 2 litre plastic bottle.
+1. Large metal coffee can.
 
 ### Instructions
 1. Cut the water bottle in half, using a sharp knife. Ensure the inside is dry.
@@ -85,7 +84,7 @@ You can make the Tranquility module and Cupola in anyway you like, so long as th
 
 ## Plenary
 
-Once the model has been assembled, have each group talk about the module they have created, and present to the class its function.
+Once the model has been assembled, have each group talk about the module they have created, and present its function to the class.
 
 ## Homework
 - Possible research on modules to be constructed as detailed above.
