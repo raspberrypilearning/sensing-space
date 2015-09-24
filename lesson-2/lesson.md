@@ -118,8 +118,8 @@ To begin with, it is a good idea to familiarise your students with using the CSV
 1. Explain that the ISS needs to make sure that the astronauts don't get too cold.
 
 1. Ask students to think of ways in which the engineers that designed the ISS could ensure that the astronauts stay warm. Two possible ideas that can easily be investigated are:
-  1. Heating the ISS
-  1. Insulating the ISS
+  - Heating the ISS
+  - Insulating the ISS
 
 1. Show the students the LED matrix on the Sense HAT. Have the students make a prediction as to what will happen to the temperature inside the Cupola if all the LEDS are illuminated.
 
