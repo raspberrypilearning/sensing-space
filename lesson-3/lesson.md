@@ -80,7 +80,7 @@ In this lesson, students will learn about air pressure, and the need to keep the
 
 1. Start logging and seal the Raspberry Pi, Sense Hat and battery in a zip-lock bag, then place it on a platform inside a plastic container, as shown below.
 
-	![Bag Pi](images/bap-pi.jpg)
+	![Bag Pi](images/bag-pi.jpg)
 
 1. Place about half a centimeter of boiling water into the base of the container.
 
