@@ -1,4 +1,4 @@
-# Sensing Space Lesson Plan 1 - Building your model ISS
+#Lesson 1 - Building your model ISS
 
 In this lesson, students will build a model Internation Space Station, containing a Sense HAT.
 
