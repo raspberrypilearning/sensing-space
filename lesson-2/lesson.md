@@ -1,6 +1,6 @@
-# Sensing Space 2 - Avoiding Sweaty Astronauts
+# Lesson 2 - Avoiding Sweaty Astronauts
 
-In this lesson, students will learn about the range of temperatures that the ISS needs to protect astronauts from, and the methods used to regulate the temperature aboard the ISS.
+In this lesson, students will learn about the range of temperatures from which the ISS needs to protect astronauts, and the methods used to regulate the temperature aboard the ISS.
 
 ## Learning objectives
 
@@ -32,7 +32,7 @@ In this lesson, students will learn about the range of temperatures that the ISS
 
 ## Starter
 
-1. Begin by asking your students what they think the dangers are to astronauts living on the ISS.
+1. Begin by asking your students what they think are the dangers to astronauts living on the ISS.
 1. Ask your students to guess what temperature they think it is outside of the ISS. If they're unsure of the range of temperatures, then this table can be displayed to give them some guidance.
 
 | Place              | Temperature (Celsius)  |
@@ -43,7 +43,7 @@ In this lesson, students will learn about the range of temperatures that the ISS
 
 1. Explain that temperatures can be as high as 121 C on the sunny side of the ISS and as low as -157 C on the dark side.
 1. Exposure to both extremes of temperatures would kill a human pretty quickly.
-1. Explain that humans are only capable of living in temperatures ranging between 4 and 35 degrees for long periods of time, without taking special precautions (such as wearing **lots** of clothes or drinking **huge** volumes of water.
+1. Explain that humans are only capable of living for long periods of time in temperatures ranging between 4 and 35 degrees Celsius, unless they are taking special precautions (such as wearing **lots** of clothes or drinking **huge** volumes of water.
 1. Ask students what they think keeps the Earth from getting too hot or too cold.
 1. Explain that the Earth's atmosphere acts like a blanket around the Earth, keeping heat in on the dark side and reflecting some heat away on the light side.
 
@@ -51,7 +51,7 @@ In this lesson, students will learn about the range of temperatures that the ISS
 
 ### The Data Logger
 
-To begin with it is a good idea to familiarise your students with using the CSV file produced by the Sense-Logger.py program.
+To begin with, it is a good idea to familiarise your students with using the CSV file produced by the Sense-Logger.py program.
 
 1. To access the resources for this and future lessons, open LXTerminal and type:
 
@@ -101,7 +101,7 @@ DELAY = 5
 BASENAME = "temp"
 ```
 
-1. Now run the Sense-Logger.py file by saving and pressing `F5` on our keyboard. A red exclamation mark should be displayed on the LED matrix. Pull the joystick downwards to start logging, and then upwards when you have finished.
+1. Now run the Sense-Logger.py file by saving and pressing `F5` on our keyboard. A red exclamation mark should be displayed on the LED matrix. Pull the joystick downwards to start logging, and then push it upwards when you have finished.
 
 1. You now need to share the file with your students. It is best to rename the file first. Don't forget you can use the `Tab` key to auto-complete file names once you've started typing them.
 
@@ -111,13 +111,13 @@ mv temp-long-sting-of-numbers.csv temp.csv
 
 1. Use [this guide](link to guides) to share the CSV file with your students.
 
-1. Your students can follow the instructions in their worksheet to produce a graph of the CSV file using Google Sheets. You can amend the instructions if you wish to use a different Spreadsheet application.
+1. Your students can follow the instructions in their worksheet to produce a graph of the CSV file using Google Sheets. You can amend the instructions if you wish to use a different spreadsheet application.
 
 ### Keeping the astronauts warm
 
 1. Explain that the ISS needs to make sure that the astronauts don't get too cold.
 
-1. Ask students to think of ways in which the engineers that designed the ISS could ensure that the astronauts stay warm. Two possible ideas that can be easily investigated are:
+1. Ask students to think of ways in which the engineers that designed the ISS could ensure that the astronauts stay warm. Two possible ideas that can easily be investigated are:
   1. Heating the ISS
   1. Insulating the ISS
 
@@ -165,9 +165,9 @@ def show_state(logging):
 
 1. Have ready some materials that you can wrap your Tranquillity module in. Some suggestions could be:
   1. Silver Foil
-  2. Bubble wrap
-  3. Black paper
-  4. Fabric
+  1. Bubble wrap
+  1. Black paper
+  1. Fabric
 
 
 1. Wrap the module in the given material and float it in the ice-water bath again.
@@ -184,11 +184,11 @@ def show_state(logging):
 
 1. As it can also get extremely hot on the sunny side of the ISS, it is important to shield the astronauts from excessive heat.
 
-2. You can use a halogen heater, a 100W bulb or even a Bunsen burner as a heat source.
+1. You can use a halogen heater, a 100W bulb or even a Bunsen burner as a heat source.
 
-3. Again ask the students to suggest materials that might be best for shielding the astronauts from excessive heat.
+1. Again ask the students to suggest materials that might be best for shielding the astronauts from excessive heat.
 
-4. Run the logging code again using no material protection and then with a variety of material coverings, to see which prevents the greatest rise in temperature
+1. Run the logging code again using no material protection, and then with a variety of material coverings, to see which is most effective at preventing a rise in temperature.
 
 ## Plenary
 
@@ -196,4 +196,4 @@ Have students explain their findings and decide which materials are the best for
 
 ## Extension
 
-Students could look into how the astronauts are actually protected from extremes of heat and cold. They could look into the Multi Layer Insulation (MLI) that is used, or the Ammonia filled radiators that pump heat out of the station.
+Students could look into how the astronauts are actually protected from extremes of heat and cold. They could look into the Multi Layer Insulation (MLI) that is used, or the ammonia-filled radiators that pump heat out of the station.
