@@ -1,6 +1,6 @@
-# Sensing Space 3 - Under Pressure
+# Lesson 3 - Under Pressure
 
-In this lesson, students will learn about air pressure, and the need to keep the ISS pressurised so that the astronauts are able to breath.
+In this lesson, students will learn about air pressure, and the need to keep the ISS pressurised so that the astronauts are able to breathe.
 
 ## Learning objectives
 
@@ -12,7 +12,7 @@ In this lesson, students will learn about air pressure, and the need to keep the
 ### All students are able to
 
 - Plot simple pressure graphs using the Sense HAT.
-- Explain the need to keep pressure constant on the ISS.
+- Explain the need to keep air pressure constant on the ISS.
 
 ### Most students are able to
 
@@ -31,9 +31,9 @@ In this lesson, students will learn about air pressure, and the need to keep the
 ## Starter
 
 1. Ask students what things an astronaut needs to survive in space. e.g.
-    1. Food
-    1. Water
-    1. Air
+    - Food
+    - Water
+    - Air
 
 1. Ask the students how they think these essentials get to the ISS and how they are kept there.
 
