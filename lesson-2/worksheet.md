@@ -16,33 +16,33 @@ You can use online software to produce graphs of your data, or your teacher migh
 
 2. Click on the folder icon in the top right-hand corner of the screen.
 
-![icons](images/folder-button.png)
+   ![icons](images/folder-button.png)
 
 3. Click on the `Upload` option from the menu bar.
 
-![upload](images/upload.png)
+   ![upload](images/upload.png)
 
 4. Choose to `Select a file` and choose the `temp.csv` file from the Raspberry Pi.
 
 5. You should see something like this:
 
-![sheet1](images/sheet1.png)
+   ![sheet1](images/sheet1.png)
 
 6. Select your two columns of values.
 
-![sheet2](images/sheet2.png)
+   ![sheet2](images/sheet2.png)
 
 7. Click on `Insert` and then `Chart`
 
-![sheet3](images/sheet3.png)
+   ![sheet3](images/sheet3.png)
 
 8. From the recommended charts choose the one similar to that shown below.
 
-![sheet4](images/sheet4.png)
+   ![sheet4](images/sheet4.png)
 
 5. The graph probably looks pretty dramatic at the moment, with big rises or troughs. To give a more realistic chart, change the scale on the Y axis. To do this you need to click on the axis and change the `Min` and `Max` values.
 
-![sheet5](images/sheet5.png)
+   ![sheet5](images/sheet5.png)
 
 6. Write a sentence describing how the temperature changed over the period that the experiment was run.
 
@@ -56,13 +56,14 @@ You can use online software to produce graphs of your data, or your teacher migh
 
 ## Experiment 3
 
-1. Next it is time to investigate how using different materials to cover the Cupola, might change the rate of heat loss.
-   1. Which material was the best at keeping heat inside the Cupola?
-   2. Why do you think this material was the best?
+Next it is time to investigate how using different materials to cover the Cupola, might change the rate of heat loss.
+   
+   - Which material was the best at keeping heat inside the Cupola?
+   - Why do you think this material performed the best?
 
-## Experiment 4
+## Experiment 4 
+As it can also get extremely hot on the sunny side of the ISS, it is important to protect the astronauts from high temperatures.
 
-1. As it can also get extremely hot on the sunny side of the ISS, it is important to protect the astronauts from high temperatures.
-   1. Which material was the best at keeping heat outside the Cupola?
-   2. Why do you think this material was the best?
+   - Which material was the best at keeping heat outside the Cupola?
+   - Why do you think this material performed best?
 
