@@ -53,7 +53,7 @@ In this lesson, students will learn about the range of temperatures that the ISS
 
 To begin with it is a good idea to familiarise your students with using the CSV file produced by the Sense-Logger.py program.
 
-1. To access the resources for this and future lessons, open a LXTerminal and type:
+1. To access the resources for this and future lessons, open LXTerminal and type:
 
 ```bash
 git clone https://github.com/raspberrypilearning/sensing-space.git && cd ~/sensing-space/lesson-2/code
