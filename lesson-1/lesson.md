@@ -1,6 +1,6 @@
 # Sensing Space Lesson Plan 1 - Building your model ISS
 
-In this lesson, students will build a model Internation Space Station, containing a Sense Hat.
+In this lesson, students will build a model Internation Space Station, containing a Sense HAT.
 
 ![ISS](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/International_Space_Station_after_undocking_of_STS-132.jpg/1024px-International_Space_Station_after_undocking_of_STS-132.jpg)
 
@@ -32,7 +32,7 @@ In this lesson, students will build a model Internation Space Station, containin
 - Show students the interactive 3D model of the ISS at [Heavens-Above](http://www.heavens-above.com/ISS_3D.aspx). It looks good when projected in full-screen mode.
 - Ask the students what the 3D model represents.
 - Rotate and zoom in and out of the model, and ask them if they can guess what the different sections of the ISS do.
-- Explain to the students that there are two Raspberry Pis on the ISS, as part of the Astro Pi project, and that they're going to be conducting some experiments using a model ISS to learn about what living in Space is like.
+- Explain to the students that there are two Raspberry Pis on the ISS, as part of the Astro Pi project, and that they're going to be conducting some experiments using a model ISS to learn about what living in space is like.
 
 ## Main development
 
@@ -50,9 +50,9 @@ In this lesson, students will build a model Internation Space Station, containin
   11. Leonardo
   12. Truss and Photovoltaic Arrays
 
-1. Their first task will to be conduct some research on their module and find out what it does, when it was launched and who it was made by. This may be best provided as a homework task before the project begins.
+1. Their first task will to be conduct some research on their module and find out what it does, when it was launched, and who it was made by. This may be best provided as a homework task before the project begins.
 
-2. No guides have been provided on the construction of the modules themselves. You should incourage your students to use a range of materials and be as creative as possible. Ensue that you give them approximate dimension for the construction, as you are going to have to join them together at the end.
+2. No guides have been provided on the construction of the modules themselves. You should encourage your students to use a range of materials and be as creative as possible. Ensue that you give them approximate dimensions for the construction, as you are going to have to join all the modules together at the end.
 
 3. The Tranquility module and Cupola has been left out of the list. This is going to be yours to make. Follow the simple guide below to produce the Tranquility module containing the Sense HAT.
 
@@ -60,7 +60,7 @@ In this lesson, students will build a model Internation Space Station, containin
 ![ISS Exploded](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ISS_configuration_2011-05_en.svg/1000px-ISS_configuration_2011-05_en.svg.png)
 
 ## Building the Tranquility Module
-1. There will be 2 Raspberry Pis and Sense HATs aboard the ISS. One will be situated in the Cupola which is attached to the Tranquility module.
+1. There will be two Raspberry Pis and Sense HATs aboard the ISS. One will be situated in the Cupola which is attached to the Tranquility module.
 ![Cupola](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/STS130_cupola_view1.jpg/1024px-STS130_cupola_view1.jpg)
 1. If you build the Cupola and the Tranquility module first, you will have some idea of the scale your students will need to conform to when building the other modules.
 2. You can build the housing for the Sense HAT any way you choose, but you will need to make sure that it is sealed reasonably well, and that there is a transparent base. The following construction guide works sufficiently well. 
