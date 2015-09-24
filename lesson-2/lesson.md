@@ -164,11 +164,10 @@ def show_state(logging):
 1. Have students suggest materials that the ISS could be coated in that might help keep heat in.
 
 1. Have ready some materials that you can wrap your Tranquillity module in. Some suggestions could be:
-  1. Silver Foil
-  1. Bubble wrap
-  1. Black paper
-  1. Fabric
-
+  - Silver Foil
+  - Bubble wrap
+  - Black paper
+  - Fabric
 
 1. Wrap the module in the given material and float it in the ice-water bath again.
 
