@@ -56,7 +56,7 @@ You can use online software to produce graphs of your data, or your teacher migh
 
 ## Experiment 3
 
-Next it is time to investigate how using different materials to cover the Cupola, might change the rate of heat loss.
+Now we will investigate how using different materials to cover the Cupola might change the rate of heat loss.
    
    - Which material was the best at keeping heat inside the Cupola?
    - Why do you think this material performed the best?
