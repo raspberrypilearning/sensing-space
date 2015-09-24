@@ -1,4 +1,4 @@
-# Sensing Space 1 - Building your model ISS
+# Lesson 1 - Building your model ISS
 
 In this lesson you are going to learn all about the International Space Station, and what the different parts of the ISS do.
 
