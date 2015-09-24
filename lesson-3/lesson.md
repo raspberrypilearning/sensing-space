@@ -43,7 +43,7 @@ In this lesson, students will learn about air pressure, and the need to keep the
 
 1. Blow up a balloon, and ask students to explain why the balloon stays inflated. 
 
-1. Allow the balloon to deflate and then use a pin to make a small hole in the skin of the balloon and then try to inflate it again.
+1. Allow the balloon to deflate. Use a pin to make a small hole in the skin of the balloon and then try to inflate it again.
 
 1. Ask the students why the balloon deflates.
 
