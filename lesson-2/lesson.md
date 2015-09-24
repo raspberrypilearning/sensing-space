@@ -27,7 +27,7 @@ In this lesson, students will learn about the range of temperatures that the ISS
 ## Lesson Summary
 
 - Students will start by learning about the extremes of temperature experienced in space, and understand how the Earth's atmosphere protects us from these temperatures.
-- Students will learn how insulation is used on the ISS to help protect from the extremes of temperature.
+- Students will learn how insulation is used on the ISS to help protect astronauts from extremes of temperature.
 - Students will conduct experiments with different material coverings of their ISS model, make predictions about how this will effect the internal temperature of the ISS, and use data from the Sense HAT to graph the results.
 
 ## Starter
@@ -45,7 +45,7 @@ In this lesson, students will learn about the range of temperatures that the ISS
 1. Exposure to both extremes of temperatures would kill a human pretty quickly.
 1. Explain that humans are only capable of living in temperatures ranging between 4 and 35 degrees for long periods of time, without taking special precautions (such as wearing **lots** of clothes or drinking **huge** volumes of water.
 1. Ask students what they think keeps the Earth from getting too hot or too cold.
-1. Explain that the Earth's atmosphere acts like a blanket around he Earth, keeping heat in on the dark side and reflecting some heat away on the light side.
+1. Explain that the Earth's atmosphere acts like a blanket around the Earth, keeping heat in on the dark side and reflecting some heat away on the light side.
 
 ## Main development
 
