@@ -1,12 +1,12 @@
 # Lesson 2 - Avoiding Sweaty Astronauts
 
-In this lesson you're going to investigate ways to keep Astronauts protected from extremely high and extremely low temperatures in space.
+In this lesson you're going to investigate ways to keep astronauts protected from extremely high and extremely low temperatures in space.
 
 ## Experiment 1
 
-1. The Sense HAT has a temperature sensor, built into it.
-1. Your teacher will demonstrate using the Sense HAT to record temperatures.
-2. Follow your teacher's instructions to get access to the CSV file, once some data has been logged.
+The Sense HAT has a temperature sensor built into it. Your teacher will demonstrate using the Sense HAT to record temperatures.
+
+Follow your teacher's instructions to get access to the CSV file, once some data has been logged.
 
 ### Graphing the CSV
 
