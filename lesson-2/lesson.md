@@ -35,11 +35,11 @@ In this lesson, students will learn about the range of temperatures from which t
 1. Begin by asking your students what they think are the dangers to astronauts living on the ISS.
 1. Ask your students to guess what temperature they think it is outside of the ISS. If they're unsure of the range of temperatures, then this table can be displayed to give them some guidance.
 
-| Place              | Temperature (Celsius)  |
-|:-------------------|:----------------------:|
-| Deep Space         | -270                   |
-| Earth Average      | 15                     |
-| Surface of the Sun | 6051                   |
+	| Place              | Temperature (Celsius)  |
+	|:-------------------|:----------------------:|
+	| Deep Space         | -270                   |
+	| Earth Average      | 15                     |
+	| Surface of the Sun | 6051                   |
 
 1. Explain that temperatures can be as high as 121 C on the sunny side of the ISS and as low as -157 C on the dark side.
 1. Exposure to both extremes of temperatures would kill a human pretty quickly.
@@ -55,59 +55,59 @@ To begin with, it is a good idea to familiarise your students with using the CSV
 
 1. To access the resources for this and future lessons, open LXTerminal and type:
 
-```bash
-git clone https://github.com/raspberrypilearning/sensing-space.git && cd ~/sensing-space/lesson-2/code
-```
+	```bash
+	git clone https://github.com/raspberrypilearning/sensing-space.git && cd ~/sensing-space/lesson-2/code
+	```
 		
 1. You'll need to install a dependency for the Sense HAT logging program you are going to use.
 
-```bash
-sudo pip-3.2 install evdev
-```
+	```bash
+	sudo pip-3.2 install evdev
+	```
 		
 1. The Sense-Logger.py program records lots of data, but to begin with you only want to record temperature. You'll need to edit the file. Open up IDLE for Python 3
 
-![IDLE](images/IDLE.png)
+	![IDLE](images/IDLE.png)
 
 1. Click `File` and `Open` and then choose the `Sensing-Space/lesson-2/code/Sense-Logger.py` file that you've just downloaded.
 
 1. Find the following lines near the top of the file.
 
-```python
-## Logging Settings
-TEMPERATURE=True
-HUMIDITY=True
-PRESSURE=True
-ORIENTATION=True
-ACCELERATION=True
-MAG=True
-GYRO=True
-DELAY = 0
-BASENAME = ""
-```
+	```python
+	## Logging Settings
+	TEMPERATURE=True
+	HUMIDITY=True
+	PRESSURE=True
+	ORIENTATION=True
+	ACCELERATION=True
+	MAG=True
+	GYRO=True
+	DELAY = 0
+	BASENAME = ""
+	```
 
 1. We only want to only record temperature every 5 seconds, so edit the lines so they look like this.
 
-```python
-## Logging Settings
-TEMPERATURE=True
-HUMIDITY=False
-PRESSURE=False
-ORIENTATION=False
-ACCELERATION=False
-MAG=False
-GYRO=False
-DELAY = 5
-BASENAME = "temp"
-```
+	```python
+	## Logging Settings
+	TEMPERATURE=True
+	HUMIDITY=False
+	PRESSURE=False
+	ORIENTATION=False
+	ACCELERATION=False
+	MAG=False
+	GYRO=False
+	DELAY = 5
+	BASENAME = "temp"
+	```
 
 1. Now run the Sense-Logger.py file by saving and pressing `F5` on our keyboard. A red exclamation mark should be displayed on the LED matrix. Pull the joystick downwards to start logging, and then push it upwards when you have finished.
 
 1. You now need to share the file with your students. It is best to rename the file first. Don't forget you can use the `Tab` key to auto-complete file names once you've started typing them.
 
-```bash
-mv temp-long-sting-of-numbers.csv temp.csv
-```
+	```bash
+	mv temp-long-sting-of-numbers.csv temp.csv
+	```
 
 1. Use [this guide](link to guides) to share the CSV file with your students.
 
@@ -125,13 +125,13 @@ mv temp-long-sting-of-numbers.csv temp.csv
 
 1. You'll need to edit the Sense-Logger.py file to turn on all the LEDs. Change the lines below.
 
-```python
-def show_state(logging):
-	if logging:
-		sense.show_letter("!",text_colour=[0,255,0])
-	else:
-		sense.show_letter("!",text_colour=[255,0,0])
-```
+	```python
+		def show_state(logging):
+			if logging:
+				sense.show_letter("!",text_colour=[0,255,0])
+			else:
+				sense.show_letter("!",text_colour=[255,0,0])
+	```
 
 to
 
