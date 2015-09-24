@@ -67,7 +67,7 @@ In this lesson, students will build a model Internation Space Station, containin
 
 ### Recommended equipment.
 
-You can make the Tranquility module and Cupola in any way you like, provided that the Cupola is large enough to house a Raspberry Pi, Sense HAT and battery.
+You can make the Tranquility module and Cupola in any way you like, provided that the Cupola is large enough to house a Raspberry Pi, Sense HAT and battery. We have used the equipment listed below, and the instructions given refer to these items, though you may be using alternative materials.
 
 1. Round-bottomed 2 litre plastic bottle.
 1. Large metal coffee can.
@@ -75,7 +75,7 @@ You can make the Tranquility module and Cupola in any way you like, provided tha
 ### Instructions
 1. Cut the water bottle in half, using a sharp knife. Ensure the inside is dry.
 ![Cut bottle](images/cut_bottle.jpg)
-1. Cut a hole in the top of the lid of the coffee can, large enough to accept the plastic bottle. (Note - this is not the current configuration of the Cupola)
+1. Cut a hole in the top of the lid of the coffee can, large enough to accept the plastic bottle. (Note: this is not the current configuration of the Cupola)
 ![Cut Can](images/cut_can.jpg)
 1. Push the plastic bottle through the hole in the lid.
 ![Push through](images/push_through.jpg)
