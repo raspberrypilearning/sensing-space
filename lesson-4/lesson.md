@@ -1,4 +1,4 @@
-# Sensing Space 4 - Water, Water Everywhere.
+# Lesson 4 - Water, Water Everywhere.
 
 In this lesson students will learn that water is one of the waste gasses produced by humans when they breath and sweat, and some of the methods that could be considered to remove excess water vapour from the air.
 
@@ -90,7 +90,7 @@ BASENAME = "humidity"
 
 1. One method would be to place a freezer block beneath the first bag, or even place ice inside the bag.
 
-1. Another method would be to use a *hygroscopic* substance such as *silica gel*, salt or rice.
+1. Another method would be to use a hygroscopic substance such as silica gel, salt or rice.
 
 1. Students can then compare the humidity when actively removing some water vapour from the air.
 
