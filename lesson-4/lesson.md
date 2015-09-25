@@ -1,6 +1,6 @@
 # Lesson 4 - Water, Water Everywhere.
 
-In this lesson students will learn that water is one of the waste gasses produced by humans when they breath and sweat, and some of the methods that could be considered to remove excess water vapour from the air.
+In this lesson students will learn that water is one of the waste gasses produced by humans when they breathe and sweat, and will consider some of the methods that could be used to remove excess water vapour from the air.
 
 ## Learning objectives
 
@@ -11,8 +11,8 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 ### All students are able to
 
-- Plot simple humidity graphs using the Sense HAT
-- Explain the need to control humidity aboard the ISS
+- Plot simple humidity graphs using the Sense HAT.
+- Explain the need to control humidity aboard the ISS.
 
 ### Most students are able to
 
@@ -21,25 +21,25 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 ### Some students are able to
 
-- Understand that *hygroscopic* substances can be used to extract water vapour from the air.
+- Understand that hygroscopic substances can be used to extract water vapour from the air.
 
 ## Lesson Summary
 
-- Students will observe and graph changes in humidity caused by a hygroscopic agent such as Silica Gel.
+- Students will observe and graph changes in humidity caused by a hygroscopic agent such as silica gel.
 - Students can then observe and anlayse the effect of human activity on the humidity in an enclosed environment.
 
 ## Starter
 
 1. Ask students about the waste human bodies produce. Hopefully they'll be familiar with the obvious contenders.
-    1. Urine
-    1. Fecaes
-    1. Carbon dioxide.
+    - Urine
+    - Faeces
+    - Carbon dioxide.
 
-1. Explain that water is also a waste product from *respiration* where we turn sugar into energy in out cells.
+1. Explain that water is also a waste product of respiration, the process by which we turn sugar into energy in our cells.
 
-```
-Sugar + Oxygen ---> Carbon dioxide + Water
-```
+    ```
+    Sugar + Oxygen ---> Carbon dioxide + Water
+    ```
 
 1. Some of the water produced exits our bodies as water vapour when we breath.
 
