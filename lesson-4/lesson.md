@@ -35,7 +35,7 @@ In this lesson students will learn that water is one of the waste gasses produce
     - Faeces
     - Carbon dioxide.
 
-1. Explain that water is also a waste product of respiration, the process by which we turn sugar into energy in our cells.
+1. Explain that water is also a waste product of respiration, the process by which we release energy from sugar in our cells.
 
     ```
     Sugar + Oxygen ---> Carbon dioxide + Water
