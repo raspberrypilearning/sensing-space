@@ -78,7 +78,7 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 ### Humidity while breathing
 
-1. Log the humidity readings again, while breathing gently into the first bag. Continue to breath into the bag for about a minute and then quit the logging program.
+1. Log the humidity readings again, while breathing gently into the first bag. Continue to breathe into the bag for about a minute and then quit the logging program.
 
 1. Have students compare the graphs, to show the effect upon humidity of respiration.
 
@@ -96,7 +96,7 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 ## Plenary
 
-Ask the students about the pros and cons of using hygroscopic substances to remove water vapour compared to cooling the air and emoving the condensation. Students might like to consider the energy needed to remove the water vapour by cooling, vs the energy required to transport hygroscopic substances to and from the station.
+Ask the students about the pros and cons of using hygroscopic substances to remove water vapour compared to cooling the air and emoving the condensation. Students might like to consider the energy needed to remove the water vapour by cooling, versus the energy required to transport hygroscopic substances to and from the station.
 
 
 
