@@ -41,9 +41,9 @@ In this lesson students will learn that water is one of the waste gasses produce
     Sugar + Oxygen ---> Carbon dioxide + Water
     ```
 
-1. Some of the water produced exits our bodies as water vapour when we breath.
+1. Some of the water produced exits our bodies as water vapour when we breathe.
 
-1. Have students come up with ideas for why this might be a problem aboard the ISS, if the excess water vapour is not removed.
+1. Have students come up with ideas for why it might be a problem aboard the ISS if the excess water vapour is not removed.
 
 1. Explain that the concentration of water vapour in the air is called the humidity.
 
@@ -53,24 +53,24 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 1. To begin you're going to need to connect a pair of ziplock bags, as shown in the image below.
 
-![bags](images/bags.jpg)
+    ![bags](images/bags.jpg)
 
 1. The first bag will be used to collect the breath of our 'astronaut' and the second bag will house the Raspberry Pi and Sense HAT.
 
 1. You'll need to edit the Sense-Logger.py file to record humidity.
 
-```python
-## Logging Settings
-TEMPERATURE=False
-HUMIDITY=True
-PRESSURE=False
-ORIENTATION=False
-ACCELERATION=False
-MAG=False
-GYRO=False
-DELAY = 5
-BASENAME = "humidity"
-```
+    ```python
+    ## Logging Settings
+    TEMPERATURE=False
+    HUMIDITY=True
+    PRESSURE=False
+    ORIENTATION=False
+    ACCELERATION=False
+    MAG=False
+    GYRO=False
+    DELAY = 5
+    BASENAME = "humidity"
+    ```
 
 1. Run the Sense-Logger.py file again and start logging.
 
@@ -82,7 +82,7 @@ BASENAME = "humidity"
 
 1. Have students compare the graphs, to show the effect upon humidity of respiration.
 
-![humidity](images/chart.png)
+    ![humidity](images/chart.png)
 
 ### Reducing Humidity
 
