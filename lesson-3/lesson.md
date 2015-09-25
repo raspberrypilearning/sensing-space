@@ -78,7 +78,7 @@ In this lesson, students will learn about air pressure, and the need to keep the
 			sense.show_letter("!",text_colour=[255,0,0])
 	```
 
-1. Start logging and seal the Raspberry Pi, Sense Hat and battery in a zip-lock bag, then place it on a platform inside a plastic container, as shown below.
+1. Start logging and seal the Raspberry Pi, Sense Hat and battery in a zip-lock bag, then place it on a platform inside a plastic container, as shown below. If possible, use the "clip and lock" style of container throughout the experiment, rather than containers with simple press-on lids.
 
 	![Bag Pi](images/bag-pi.jpg)
 
@@ -88,7 +88,7 @@ In this lesson, students will learn about air pressure, and the need to keep the
 
 1. Ask the students what is filling the space above the water. Try and get them to realise that it is mostly water vapour and steam.
 
-1. Push the lid in place, and ask if air can get back into the container.
+1. Replace the lid, and ask if air can get back into the container.
 
 	![Box Pi](images/box-pi.jpg)
 
@@ -110,7 +110,7 @@ simulate the Cupola.
 
 	![Sealed Pi](images/sealed-pi.jpg)
 
-3. Now repeat the previous experiment, to allow the students to see how the sealed container reduces the air pressure loss. If your container has an absolutely air-tight seal, you should see no pressure loss, but this can be difficult to reproduce.
+3. Now repeat the previous experiment, to allow the students to see how the sealed container reduces the air pressure loss. If your container has an absolutely air-tight seal, you should see no pressure loss, but this can be difficult to reproduce. 
 
 4. The worksheet has students compare the exposed and pressurised pressure graphs. You would normally expect to see a loss in pressure, even from the sealed container unless the seal is perfect. This can lead to a discussion of structual leakage aboard the ISS, which is a real problem.
 
