@@ -116,8 +116,8 @@ simulate the Cupola.
 
 ## Plenary
 
-Ask students to describe what they think would happen to the ISS if a small piece of space debris punctured the hull of the station. If you don't mind losing a container, you could use a hot needle to puncture a hole in the tupperware container.
+Ask students to describe what they think would happen to the ISS if a small piece of space debris punctured the hull of the station. If you don't mind losing a container, you could use a hot needle to puncture a hole in the plastic container.
 
 ## Extension
 
-Ask students to research how pressure is maintianed on the ISS and any measures they have to protect against a hull breech. 
+Ask students to research how pressure is maintained on the ISS, and what measures might be in place to protect against a hull breech. 
