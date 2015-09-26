@@ -13,15 +13,15 @@ Humans produce a lot of waste material. Can you think of four waste products hum
 
 ## Experiment 2
 
-1. Next the first bag can be exhaled into, and the second bag will contain the Raspberry Pi and Sense HAT.
+1. The first bag will be exhaled into, and the second bag will contain the Raspberry Pi and Sense HAT.
 
-1. Once the humidity inside the second bag has been logged, you can download the CSV sheet, in the same way you have done previously and graph the results.
+1. Once the humidity inside the second bag has been logged, you can download the CSV sheet, in the same way you have done previously, and graph the results.
 
-1. What happens to the humidity of air in the second bag?
+1. What happens to the humidity level of the air in the second bag?
 
 ## Experiment 3
 
-1. Now that you've seen the how much water vapour is in exhaled air, you should be able to understand that there is a need to remove water vapour from the air on the ISS. If it wasn't removed, in such an enclosed environment, it would very rapidly become uncomfortably moist for the astronauts.
+1. Now that you've seen the how much water vapour is in exhaled air, you should be able to understand that there is a need to remove water vapour from the air on the ISS. If it wasn't removed, in such an enclosed environment, the atmosphere would very rapidly become uncomfortably moist for the astronauts.
 
 2. Can you think of a way of removing water vapour from the air? Your teacher should now demonstrate a couple of methods of removing water vapour. Create a graph that compares the different methods and then state which is the most effective.
 
