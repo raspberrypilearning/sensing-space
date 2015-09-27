@@ -1,4 +1,4 @@
-# Sensing Space 5 - Always Falling
+# Lesson 5 - Always Falling
 
 ## Experiment 1
 
@@ -9,9 +9,9 @@
 3. Once the experiment has been run, graph the CSV data as you have done in previous lessons.
 
 4. Answer the following questions
-   1. Are there any forces acting on the motionless Sense HAT?
-   2. Which direction does the Sense HAT experience a force?
-   3. What do you think accounts for this force?
+	1. Are there any forces acting on the motionless Sense HAT?
+	2. Which direction does the Sense HAT experience a force?
+	3. What do you think accounts for this force?
 
 ## Experiment 2
 
@@ -20,7 +20,6 @@
 2. Graph the CSV data.
 
 3. Answer the following questions:
-
 	1. Does dropping the Sense HAT result in a change in the forces experienced?
 	2. Is there an increase or decrease in the forces experienced.
 	3. Imagine you were in a large container that was dropped out of an aeroplane. What do you think it would feel like to be inside the container, with regard to the forces you'd experience.
@@ -31,5 +30,5 @@
 
 2. Look at the graph of the CSV data produced. Are there any changes to the forces experienced by the Sense HAT?
 
-3. Imagine you were in a large container in Space and it was being spun around on the end of a steel cable. What would it feel like, with regard to the forces you'd experience.
+3. Imagine you were in a large container in space and it was being spun around on the end of a steel cable. What would it feel like, with regard to the forces you'd experience?
 
