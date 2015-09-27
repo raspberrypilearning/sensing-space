@@ -116,7 +116,7 @@ showing a steady acceleration due to gravity of 1, that suddenly drops to 0 whil
 
   ![spin](images/spinning.png)
 
-9. The graph clearly shows an increase in the force experienced by the Sense HAT while being spun. Try the experiment again using different length straps to see how this changes the force experience.
+9. The graph clearly shows an increase in the force experienced by the Sense HAT while being spun. Try the experiment again using different lengths of strap to see how this changes the force experience.
 
 ## Plenary
 
