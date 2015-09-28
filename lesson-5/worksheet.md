@@ -10,7 +10,7 @@
 
 4. Answer the following questions
 	1. Are there any forces acting on the motionless Sense HAT?
-	2. Which direction does the Sense HAT experience a force?
+	2. In which direction does the Sense HAT experience a force?
 	3. What do you think accounts for this force?
 
 ## Experiment 2
