@@ -30,5 +30,5 @@
 
 2. Look at the graph of the CSV data produced. Are there any changes to the forces experienced by the Sense HAT?
 
-3. Imagine you were in a large container in space and it was being spun around on the end of a steel cable. What would it feel like, with regard to the forces you'd experience?
+3. Imagine you were in a large container in space, and the container was being spun around on the end of a steel cable. What would it feel like, with regard to the forces you'd experience?
 
