@@ -21,8 +21,8 @@
 
 3. Answer the following questions:
 	1. Does dropping the Sense HAT result in a change in the forces experienced?
-	2. Is there an increase or decrease in the forces experienced.
-	3. Imagine you were in a large container that was dropped out of an aeroplane. What do you think it would feel like to be inside the container, with regard to the forces you'd experience.
+	2. Do the forces experienced increase or decrease?
+	3. Imagine you were in a large container that was dropped out of an aeroplane. What do you think it would feel like to be inside the container? What forces would you experience?
 
 ## Experiment 3
 
