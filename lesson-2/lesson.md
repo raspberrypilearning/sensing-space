@@ -109,7 +109,7 @@ BASENAME = "temp"
 mv temp-long-sting-of-numbers.csv temp.csv
 ```
 
-1. Use [this guide](link to guides) to share the CSV file with your students.
+1. Use [this guide](https://github.com/raspberrypilearning/guides/blob/master/file-sharing/README.md) to share the CSV file with your students.
 
 1. Your students can follow the instructions in their worksheet to produce a graph of the CSV file using Google Sheets. You can amend the instructions if you wish to use a different Spreadsheet application.
 

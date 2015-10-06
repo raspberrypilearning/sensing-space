@@ -83,7 +83,7 @@ BASENAME = ""
 
 showing a steady acceleration due to gravity of 1, that suddenly drops to 0 while the Raspberry Pi is falling.
 
-11. Ask your students what it would feel like if they were in free fall. You can show them [this video](https://www.youtube.com/watch?v=4Y_L8pnDRvY) of the *vomit comet*.
+11. Ask your students what it would feel like if they were in free fall. You can show them [this video](https://www.youtube.com/watch?v=OZY8279b7BU&feature=youtu.be) of the *vomit comet*.
 
 12. Explain to students that the reason astronauts feel weightless when in orbit is because in reality, the ISS is falling towards Earth. Because the Earth is curved, the ISS never actually reaches the surface, so it is always in *free-fall*.
 

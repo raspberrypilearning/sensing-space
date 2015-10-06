@@ -8,13 +8,13 @@ In this lesson you will be learning the importance of maintaining a positive air
 
 1. If you imagine a sealed box on Earth containing nothing but air, the air particles on the inside of the box are hitting the walls of the box. This pushes the walls outwards.
 
-![pressure](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pressure_exerted_by_collisions.svg/2000px-Pressure_exerted_by_collisions.svg.png)
+![pressure](images/particles1.png)
 
 1. Because the box is on Earth, there is air on the outside, also hitting the outer walls of the box and pushing them inwards.
 
-1. The force of these air particles striking the inside and outside of the box are called Air Pressure. 
+1. The force of these air particles striking the inside and outside of the box are called Air Pressure. If there are fewer particles, then the pressure is less.
 
-
+![pressure](images/particles2.png)
 
 ## Experiment 1
 
