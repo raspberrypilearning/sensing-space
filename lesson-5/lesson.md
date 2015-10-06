@@ -1,4 +1,4 @@
-# Sensing Space 5 - Always Falling
+# Lesson 5 - Always Falling
 
 ## Learning objectives
 
@@ -9,8 +9,8 @@
 
 ### All students are able to
 
-- Plot graphs using more than 2 data sources.
-- Use the terms X, Y and Z to describe motion in 3 dimensions
+- Plot graphs using more than two data sources.
+- Use the terms X, Y and Z to describe motion in three dimensions
 
 ### Most students are able to
 
@@ -26,10 +26,10 @@ In this lesson, students will conduct some research on living with micro-gravity
 
 ## Starter
 
-1. Show students a video of astronauts having fun in space like [this one](https://www.youtube.com/watch?v=coX1u2_KBsQ).
-2. Tell students that we experience a force of approximately 10 Newtons per kilogram on Earth. Ask them to guess what the force experienced by astronauts on the ISS is.
-3. Reveal to students that although the force of gravity decreases with distance from the Earth, at between 200 and 250 miles (the altitude of the ISS) the force of gravity is actually still 90% of what is experience by us on Earth - roughly 9 Newtons per kilogram.
-4. Why therefore, do astronauts appear to be weightless?
+1. Show students a video of astronauts having fun in space, like [this one](https://www.youtube.com/watch?v=coX1u2_KBsQ).
+2. Tell students that we experience a force of approximately ten Newtons per kilogram on Earth. Ask them to guess what the force experienced by astronauts on the ISS is.
+3. Reveal to students that although the force of gravity decreases with distance from the Earth, at between 200 and 250 miles (the altitude of the ISS) the force of gravity is actually still 90% of what we experience on Earth: roughly 9 Newtons per kilogram.
+4. Why, then, do astronauts appear to be weightless?
 
 ## Main development
 
@@ -38,35 +38,35 @@ In this lesson, students will conduct some research on living with micro-gravity
 1. Explain that the Sense HAT contains an accelerometer which can measure forces acting on the Sense HAT.
 2. Open Sense-Logger.py and edit the opening lines, so that only acceleration is being measured every 5 seconds.
 
-```python
-## Logging Settings
-TEMPERATURE=False
-HUMIDITY=False
-PRESSURE=False
-ORIENTATION=False
-ACCELERATION=True
-MAG=False
-GYRO=False
-DELAY = 5
-BASENAME = ""
-```
+  ```python
+  ## Logging Settings
+  TEMPERATURE=False
+  HUMIDITY=False
+  PRESSURE=False
+  ORIENTATION=False
+  ACCELERATION=True
+  MAG=False
+  GYRO=False
+  DELAY = 5
+  BASENAME = ""
+  ```
 3. Start the logging process, let it run for a few seconds and then stop logging.
 
-4. Share the produced CSV file and let students reason as to what the data means. They may need guidance to realise that the measurement of approximately `1` in the accel_z column is a measurement of the force on the Sense HAT caused by the gravitational pull of the Earth.
+4. Share the produced CSV file and let students reason as to what the data means. They may need guidance to realise that the measurement of approximately `1` in the `accel_z` column is a measurement of the force on the Sense HAT caused by the gravitational pull of the Earth.
 
 5. Open up Sense-Logger.py again and change the `DELAY` variable, so that the Sense Hat will log data as quickly as it can.
-```python
-## Logging Settings
-TEMPERATURE=False
-HUMIDITY=False
-PRESSURE=False
-ORIENTATION=False
-ACCELERATION=True
-MAG=False
-GYRO=False
-DELAY = 5
-BASENAME = ""
-```
+  ```python
+  ## Logging Settings
+  TEMPERATURE=False
+  HUMIDITY=False
+  PRESSURE=False
+  ORIENTATION=False
+  ACCELERATION=True
+  MAG=False
+  GYRO=False
+  DELAY = 5
+  BASENAME = ""
+  ```
 6. You may want to secure your battery to the Raspberry Pi for the next part, or even place them in a protective container of some description.
 
 ![tied-up](images/tied-up.jpg)
@@ -79,17 +79,17 @@ BASENAME = ""
 
 10. They should see something like this:
 
-![graph](images/graph.png)
+  ![graph](images/graph.png)
 
 showing a steady acceleration due to gravity of 1, that suddenly drops to 0 while the Raspberry Pi is falling.
 
-11. Ask your students what it would feel like if they were in free fall. You can show them [this video](https://www.youtube.com/watch?v=OZY8279b7BU&feature=youtu.be) of the *vomit comet*.
+11. Ask your students what it would feel like if they were in free fall. You can show them [this video](https://www.youtube.com/watch?v=4Y_L8pnDRvY) of the Vomit Comet.
 
-12. Explain to students that the reason astronauts feel weightless when in orbit is because in reality, the ISS is falling towards Earth. Because the Earth is curved, the ISS never actually reaches the surface, so it is always in *free-fall*.
+12. Explain to students that the reason astronauts feel weightless when in orbit is because in reality, the ISS is falling towards Earth. Because the Earth is curved, the ISS never actually reaches the surface, so it is always in **free-fall**.
 
-![Newton's Cannonball 1](https://upload.wikimedia.org/wikipedia/commons/b/bb/Newtonsmountainv%3D6000.gif)
+  ![Newton's Cannonball 1](https://upload.wikimedia.org/wikipedia/commons/b/bb/Newtonsmountainv%3D6000.gif)
 
-![Newton's Cannonball 2](https://upload.wikimedia.org/wikipedia/commons/1/12/Newtonsmountainv%3D7300.gif)
+  ![Newton's Cannonball 2](https://upload.wikimedia.org/wikipedia/commons/1/12/Newtonsmountainv%3D7300.gif)
 
 ### Simulating Gravity
 
@@ -105,22 +105,22 @@ showing a steady acceleration due to gravity of 1, that suddenly drops to 0 whil
 
 6. You can use a plastic carrier bag to hold the container, with straps coming from the handle.
 
-![spin1](images/spin1.jpg)
-![spin2](images/spin2.jpg)
+  ![spin1](images/spin1.jpg)
+  ![spin2](images/spin2.jpg)
 
 7. With logging started, spin in a horizontal plane.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TF_-EVjAWbk" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TF_-EVjAWbk" frameborder="0" allowfullscreen></iframe>
 
 8. Quit the logging program and give students access to the CSV file for graphing. They should see something like:
 
-![spin](images/spinning.png)
+  ![spin](images/spinning.png)
 
-9. The graph clearly shows an increase in the force experienced by the Sense HAT while being spun. Try the experiment again using different length straps to see how this changes the force experience.
+9. The graph clearly shows an increase in the force experienced by the Sense HAT while being spun. Try the experiment again using different lengths of strap to see how this changes the force experience.
 
 ## Plenary
 
-- Have students discuss what they think would happen to the force of gravity on a spinning Space station as you moved close to the axis of spin.
+- Have students discuss what they think would happen to the force of gravity on a spinning space station as you moved close to the axis of spin.
 
 
 

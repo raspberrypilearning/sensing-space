@@ -1,4 +1,4 @@
-By following this teach resource, stuents will learn:
+By following this resource, students will learn:
 
 - How to graph CSV data
 - How insulation can affect heat loss/gain

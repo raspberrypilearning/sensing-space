@@ -1,8 +1,8 @@
 You'll also need:
 
-- Various model making kit such as:
+- Various items of model making kit such as:
   - Plastic bottles
-  - Paper and Plastic cups
+  - Paper and plastic cups
   - Egg boxes
   - Foam tubing
   - Silver foil
@@ -11,7 +11,7 @@ You'll also need:
 - Duct tape
 - Scissors / Safety blades
 - Plastic and air-tight Tupperware containers
-- Ice Blocks or Ice
+- Ice blocks or ice
 - Straws
-- Zip-lock Bags
+- Zip-lock bags
 - Bubble wrap

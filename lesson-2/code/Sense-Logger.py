@@ -38,14 +38,14 @@ def file_setup(filename):
     with open(filename,"w") as f:
         f.write(",".join(str(value) for value in header)+ "\n")
 
-## Function to capture input from the Sense Hat Joystick
+## Function to capture input from the Sense HAT Joystick
 def get_joystick():
     devices = [InputDevice(fn) for fn in list_devices()]
     for dev in devices: 
         if dev.name == "Raspberry Pi Sense HAT Joystick":
             return dev
 
-## Function to collect data from the sense hat and build a string
+## Function to collect data from the Sense HAT and build a string
 def get_sense_data():
     sense_data=[]
     

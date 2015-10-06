@@ -1,6 +1,6 @@
-# Sensing Space 4 - Water, Water Everywhere.
+# Lesson 4 - Water, Water Everywhere.
 
-In this lesson students will learn that water is one of the waste gasses produced by humans when they breath and sweat, and some of the methods that could be considered to remove excess water vapour from the air.
+In this lesson students will learn that water is one of the waste gasses produced by humans when they breathe and sweat, and will consider some of the methods that could be used to remove excess water vapour from the air.
 
 ## Learning objectives
 
@@ -11,8 +11,8 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 ### All students are able to
 
-- Plot simple humidity graphs using the Sense HAT
-- Explain the need to control humidity aboard the ISS
+- Plot simple humidity graphs using the Sense HAT.
+- Explain the need to control humidity aboard the ISS.
 
 ### Most students are able to
 
@@ -21,29 +21,29 @@ In this lesson students will learn that water is one of the waste gasses produce
 
 ### Some students are able to
 
-- Understand that *hygroscopic* substances can be used to extract water vapour from the air.
+- Understand that hygroscopic substances can be used to extract water vapour from the air.
 
 ## Lesson Summary
 
-- Students will observe and graph changes in humidity caused by a hygroscopic agent such as Silica Gel.
+- Students will observe and graph changes in humidity caused by a hygroscopic agent such as silica gel.
 - Students can then observe and anlayse the effect of human activity on the humidity in an enclosed environment.
 
 ## Starter
 
 1. Ask students about the waste human bodies produce. Hopefully they'll be familiar with the obvious contenders.
-    1. Urine
-    1. Fecaes
-    1. Carbon dioxide.
+    - Urine
+    - Faeces
+    - Carbon dioxide.
 
-1. Explain that water is also a waste product from *respiration* where we turn sugar into energy in out cells.
+1. Explain that water is also a waste product of respiration, the process by which we release energy from sugar in our cells.
 
-```
-Sugar + Oxygen ---> Carbon dioxide + Water
-```
+    ```
+    Sugar + Oxygen ---> Carbon dioxide + Water
+    ```
 
-1. Some of the water produced exits our bodies as water vapour when we breath.
+1. Some of the water produced exits our bodies as water vapour when we breathe.
 
-1. Have students come up with ideas for why this might be a problem aboard the ISS, if the excess water vapour is not removed.
+1. Have students come up with ideas for why it might be a problem aboard the ISS if the excess water vapour is not removed.
 
 1. Explain that the concentration of water vapour in the air is called the humidity.
 
@@ -53,24 +53,24 @@ Sugar + Oxygen ---> Carbon dioxide + Water
 
 1. To begin you're going to need to connect a pair of ziplock bags, as shown in the image below.
 
-![bags](images/bags.jpg)
+    ![bags](images/bags.jpg)
 
 1. The first bag will be used to collect the breath of our 'astronaut' and the second bag will house the Raspberry Pi and Sense HAT.
 
 1. You'll need to edit the Sense-Logger.py file to record humidity.
 
-```python
-## Logging Settings
-TEMPERATURE=False
-HUMIDITY=True
-PRESSURE=False
-ORIENTATION=False
-ACCELERATION=False
-MAG=False
-GYRO=False
-DELAY = 5
-BASENAME = "humidity"
-```
+    ```python
+    ## Logging Settings
+    TEMPERATURE=False
+    HUMIDITY=True
+    PRESSURE=False
+    ORIENTATION=False
+    ACCELERATION=False
+    MAG=False
+    GYRO=False
+    DELAY = 5
+    BASENAME = "humidity"
+    ```
 
 1. Run the Sense-Logger.py file again and start logging.
 
@@ -78,11 +78,11 @@ BASENAME = "humidity"
 
 ### Humidity while breathing
 
-1. Log the humidity readings again, while breathing gently into the first bag. Continue to breath into the bag for about a minute and then quit the logging program.
+1. Log the humidity readings again, while breathing gently into the first bag. Continue to breathe into the bag for about a minute and then quit the logging program.
 
 1. Have students compare the graphs, to show the effect upon humidity of respiration.
 
-![humidity](images/chart.png)
+    ![humidity](images/chart.png)
 
 ### Reducing Humidity
 
@@ -90,13 +90,13 @@ BASENAME = "humidity"
 
 1. One method would be to place a freezer block beneath the first bag, or even place ice inside the bag.
 
-1. Another method would be to use a *hygroscopic* substance such as *silica gel*, salt or rice.
+1. Another method would be to use a hygroscopic substance such as silica gel, salt or rice.
 
 1. Students can then compare the humidity when actively removing some water vapour from the air.
 
 ## Plenary
 
-Ask the students about the pros and cons of using hygroscopic substances to remove water vapour compared to cooling the air and emoving the condensation. Students might like to consider the energy needed to remove the water vapour by cooling, vs the energy required to transport hygroscopic substances to and from the station.
+Ask the students about the pros and cons of using hygroscopic substances to remove water vapour compared to cooling the air and removing the condensation. Students might like to consider the energy needed to remove the water vapour by cooling, versus the energy required to transport hygroscopic substances to and from the station.
 
 
 
