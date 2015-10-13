@@ -64,7 +64,7 @@ In this lesson, students will conduct some research on living with micro-gravity
   ACCELERATION=True
   MAG=False
   GYRO=False
-  DELAY = 5
+  DELAY = 0
   BASENAME = ""
   ```
 6. You may want to secure your battery to the Raspberry Pi for the next part, or even place them in a protective container of some description.

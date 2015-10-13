@@ -36,7 +36,7 @@ In this lesson, students will build a model Internation Space Station, containin
 
 ## Main development
 
-1. Split the class into appropriately sized groups, and assign each group a pressurised module or modules to construct.
+1. Split the class into appropriately equal-sized groups, and assign each group a pressurised module or modules to construct.
   1. Zarya
   2. Unity
   3. Zvezda
@@ -52,7 +52,7 @@ In this lesson, students will build a model Internation Space Station, containin
 
 1. Their first task will to be conduct some research on their module and find out what it does, when it was launched, and who it was made by. This may be best provided as a homework task before the project begins.
 
-2. No guides have been provided on the construction of the modules themselves. You should encourage your students to use a range of materials and be as creative as possible. Ensue that you give them approximate dimensions for the construction, as you are going to have to join all the modules together at the end.
+2. No guides have been provided on the construction of the modules themselves. You should encourage your students to use a range of materials and be as creative as possible. Ensure that you give them approximate dimensions for the construction, as you are going to have to join all the modules together at the end.
 
 3. The Tranquility module and Cupola has been left out of the list. This is going to be yours to make. Follow the simple guide below to produce the Tranquility module containing the Sense HAT.
 

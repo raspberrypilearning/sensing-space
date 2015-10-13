@@ -41,7 +41,7 @@ In this lesson, students will learn about the range of temperatures from which t
 	| Earth Average      | 15                     |
 	| Surface of the Sun | 6051                   |
 
-1. Explain that temperatures can be as high as 121 C on the sunny side of the ISS and as low as -157 C on the dark side.
+1. Explain that temperatures can be as high as 121°C on the sunny side of the ISS and as low as -157°C on the dark side.
 1. Exposure to both extremes of temperatures would kill a human pretty quickly.
 1. Explain that humans are only capable of living for long periods of time in temperatures ranging between 4 and 35 degrees Celsius, unless they are taking special precautions (such as wearing **lots** of clothes or drinking **huge** volumes of water.
 1. Ask students what they think keeps the Earth from getting too hot or too cold.
