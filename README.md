@@ -1,6 +1,6 @@
 # Sensing Space
 
-![ISS](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/International_Space_Station_after_undocking_of_STS-132.jpg/1024px-International_Space_Station_after_undocking_of_STS-132.jpg)
+![cover](cover.png)
 
 Space is a harsh environment, with extremes of temperature and pressure, and only micro-gravity. Maintaining the environment onboard the ISS so that it remains habitable for the astronauts is an amazing technical achievement.
 
