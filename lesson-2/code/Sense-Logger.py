@@ -27,9 +27,9 @@ def file_setup(filename):
         header.append("pressure")
     if ORIENTATION:
         header.extend(["pitch","roll","yaw"])
-    if ACCELERATION:
-        header.extend(["mag_x","mag_y","mag_z"])
     if MAG:
+        header.extend(["mag_x","mag_y","mag_z"])
+    if ACCELERATION:
         header.extend(["accel_x","accel_y","accel_z"])
     if GYRO:
         header.extend(["gyro_x","gyro_y","gyro_z"])
@@ -59,19 +59,19 @@ def get_sense_data():
         sense_data.append(sense.get_pressure())
         
     if ORIENTATION:
-        yaw,pitch,roll = sense.get_orientation().values()        
+        yaw,pitch,roll = [sense.get_orientation()[key] for key in ['yaw','pitch','roll']]
         sense_data.extend([pitch,roll,yaw])
 
     if MAG:
-        mag_x,mag_y,mag_z = sense.get_compass_raw().values()
+        mag_x,mag_y,mag_z = [sense.get_compass_raw()[key] for key in ['x','y','z']]
         sense_data.append([mag_x,mag_y,mag_z])
 
     if ACCELERATION:
-        x,y,z = sense.get_accelerometer_raw().values()
+        x,y,z = [sense.get_accelerometer_raw()[key] for key in ['x','y','z']]
         sense_data.extend([x,y,z])
 
     if GYRO:
-        gyro_x,gyro_y,gyro_z = sense.get_gyroscope_raw().values()
+        gyro_x,gyro_y,gyro_z = [sense.get_gyroscope_raw()[key] for key in ['x','y','z']]
         sense_data.extend([gyro_x,gyro_y,gyro_z])
     
     sense_data.append(datetime.now())
@@ -116,9 +116,9 @@ dev = get_joystick()
 batch_data= []
 
 if BASENAME == "":
-    filename = "SenseLog-"+str(datetime.now())+".csv"
+    filename = "SenseLog-"+str(datetime.now().strftime("%Y-%m-%d-%H%M"))+".csv"
 else:
-    filename = BASENAME+"-"+str(datetime.now())+".csv"
+    filename = BASENAME+"-"+str(datetime.now().strftime("%Y-%m-%d-%H%M"))+".csv"
 
 file_setup(filename)
 
